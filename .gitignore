@@ -1,0 +1,7 @@
+/dmdrelease/*
+!/dmdrelease/pngs/
+/dsss.last
+/dsss_imports/
+/dsss_objs/
+/Debug/
+
